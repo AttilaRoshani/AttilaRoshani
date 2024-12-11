@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about technology, artificial intell
 ---
 ## 🚀 About Me
 - **🌍 Location:** Tehran
-- **🎓 Education:** Bachelor Computer Science  
+- **🎓 Education:** Bachelor Computer Engineering  
 - **💼 Current Role:** Computer vision Engineer | Researcher , Software Engineer .
 - **📌 Interests:** Machine Learning, Few-Shot Learning, Image Registration  . 
 - **🌱 Learning Goals:** Constantly improving my expertise in AI-driven projects and exploring cutting-edge technologies.  
